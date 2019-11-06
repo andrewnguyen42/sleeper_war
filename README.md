@@ -15,3 +15,5 @@ WAR is a statistic that computes how many wins a player is responsible for *abov
 
 1) The average probability of winning if you played player X and a bunch of average players
 2) The number of games player X has played in
+
+A really nice, intuitive article on WAR in fantasy leagues can be found in this [FantasyPros article](https://www.fantasypros.com/2019/08/introducing-fantasy-football-wins-above-replacement-war-2019-fantasy-football/)
